@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -30,6 +31,8 @@ build/
 ### VS Code ###
 .vscode/
 =======
+=======
+>>>>>>> 6873fc298c6df7f72ff740fba671785716b83709
 # Compiled class file
 *.class
 
@@ -55,4 +58,4 @@ build/
 hs_err_pid*
 
 ### FIAS DB ###
-*.DBF
+*.DBFgit coo
